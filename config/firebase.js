@@ -6,13 +6,21 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 
 // Your Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyDyaROnloZBMj0-xMFwAQ5Kl34IlpOvnqc",
-  authDomain: "aichatapp-7270c.firebaseapp.com",
-  projectId: "aichatapp-7270c",
-  storageBucket: "aichatapp-7270c.firebasestorage.app",
-  messagingSenderId: "827112911251",
-  appId: "1:827112911251:web:d60114837d38e761e13866",
-  measurementId: "G-QH44WDGQYT",
+
+ apiKey: "AIzaSyBl2gFi6_v-qbuRtmM8Nz1m8TE3YyN025A",
+
+ authDomain: "aichatapp-f3157.firebaseapp.com",
+
+ projectId: "aichatapp-f3157",
+
+ storageBucket: "aichatapp-f3157.firebasestorage.app",
+
+ messagingSenderId: "522140066784",
+
+ appId: "1:522140066784:web:98b908b5f7c8f56b514185",
+
+ measurementId: "G-2J5XWK6M33"
+
 };
 
 // Ensure app is initialized only once
